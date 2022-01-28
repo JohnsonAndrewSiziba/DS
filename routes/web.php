@@ -23,7 +23,7 @@ Route::name('website.')->group(function () {
 });
 
 
-Route::name('admin.')->prefix('admin')->group(function () {
+Route::middleware(['auth'])->name('admin.')->prefix('admin')->group(function () {
     Route::get('', [App\Http\Controllers\Admin\Dashboard\DashboardController::class, 'index'])->name('home');
 });
 
