@@ -21,3 +21,12 @@ Route::name('website.')->group(function () {
     Route::get('/', [App\Http\Controllers\Website\WebsiteController::class, 'home'])->name('home');
 
 });
+
+
+Route::name('admin.')->prefix('admin')->group(function () {
+    Route::get('', [App\Http\Controllers\Admin\Dashboard\DashboardController::class, 'index'])->name('home');
+});
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
