@@ -1,0 +1,7 @@
+{
+  "name": "deedscan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
