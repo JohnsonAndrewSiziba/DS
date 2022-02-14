@@ -19,3 +19,7 @@ View [example pages here](https://demos.creative-tim.com/vue-soft-ui-dashboard/)
 
 - View [Github Repository](https://github.com/creativetimofficial/vue-soft-ui-dashboard)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
+
+
+* Electron
+* <a href="https://blog.logrocket.com/building-app-electron-vue/">Electron</a>

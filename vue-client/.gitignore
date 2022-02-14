@@ -421,3 +421,6 @@ yarn-error.log
 # https://plugins.jetbrains.com/plugin/12206-codestream
 
 # End of https://www.toptal.com/developers/gitignore/api/node,vue,vuejs,ionic3,phpstorm,webstorm,visualstudiocode
+
+#Electron-builder output
+/dist_electron
