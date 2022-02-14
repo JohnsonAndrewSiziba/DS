@@ -28,8 +28,8 @@
 
     <div class="sidenav-header">
         <i class="fas fa-times p-3 cursor-pointer text-secondary opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>
-        <a class="navbar-brand m-0" href=" https://demos.creative-tim.com/argon-dashboard/pages/dashboard.html " target="_blank">
-            <img src="{{ asset('argon_assets/img/logo-ct-dark.png') }}" class="navbar-brand-img h-100" alt="main_logo">
+        <a class="navbar-brand m-0" href="/" target="_blank">
+            <img style="border-radius: 8px" src="{{ asset('assets/logo.jpg') }}" class="navbar-brand-img h-100" alt="main_logo">
             <span class="ms-1 font-weight-bold">DeedScan</span>
         </a>
     </div>
@@ -221,7 +221,7 @@
     <div class="card shadow-lg">
         <div class="card-header pb-0 pt-3 ">
             <div class="float-start">
-                <h5 class="mt-3 mb-0">DeedScan Configurator</h5>
+                <h5 class="mt-3 mb-0">DeedScan UI Configurator</h5>
                 <p>See our dashboard options.</p>
             </div>
             <div class="float-end mt-4">

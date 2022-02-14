@@ -397,9 +397,6 @@
                                 <a href="/about" class="nav-link text-muted" target="_blank">About Us</a>
                             </li>
                             <li class="nav-item">
-                                <a href="/blog" class="nav-link text-muted" target="_blank">Blog</a>
-                            </li>
-                            <li class="nav-item">
                                 <a href="/license" class="nav-link pe-0 text-muted" target="_blank">License</a>
                             </li>
                         </ul>

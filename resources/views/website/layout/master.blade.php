@@ -639,7 +639,7 @@
 
                 <div class="col-lg-4 col-md-4">
                     <div class="contact-about">
-                        <h3>Avilon</h3>
+                        <h3>DeedScan</h3>
                         <p>Cras fermentum odio eu feugiat. Justo eget magna fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
                         <div class="social-links">
                             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
@@ -653,10 +653,10 @@
 
                 <div class="col-lg-3 col-md-4">
                     <div class="info">
-                        <div>
-                            <i class="bi bi-geo-alt"></i>
-                            <p>A108 Adam Street<br>New York, NY 535022</p>
-                        </div>
+{{--                        <div>--}}
+{{--                            <i class="bi bi-geo-alt"></i>--}}
+{{--                            <p>A108 Adam Street<br>New York, NY 535022</p>--}}
+{{--                        </div>--}}
 
                         <div>
                             <i class="bi bi-envelope"></i>
@@ -711,24 +711,16 @@
         <div class="row">
             <div class="col-lg-6 text-lg-start text-center">
                 <div class="copyright">
-                    &copy; Copyright <strong>Avilon</strong>. All Rights Reserved
+                    &copy; Copyright <strong>DeedScan</strong>. All Rights Reserved
                 </div>
                 <div class="credits">
-                    <!--
-                    All the links in the footer should remain intact.
-                    You can delete the links only if you purchased the pro version.
-                    Licensing information: https://bootstrapmade.com/license/
-                    Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Avilon
-                  -->
-                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                    <a href="/">DeedScan</a>
                 </div>
             </div>
             <div class="col-lg-6">
                 <nav class="footer-links text-lg-right text-center pt-2 pt-lg-0">
                     <a href="#intro" class="scrollto">Home</a>
                     <a href="#about" class="scrollto">About</a>
-                    <a href="#">Privacy Policy</a>
-                    <a href="#">Terms of Use</a>
                 </nav>
             </div>
         </div>
