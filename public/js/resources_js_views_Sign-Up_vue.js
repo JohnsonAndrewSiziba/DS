@@ -1,4 +1,4 @@
-(self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_views_Sign-Up_vue"],{
+(self["webpackChunkvue_soft_ui_dashboard"] = self["webpackChunkvue_soft_ui_dashboard"] || []).push([["resources_js_views_Sign-Up_vue"],{
 
 /***/ "./resources/js/views/Sign-Up.vue":
 /*!****************************************!*\

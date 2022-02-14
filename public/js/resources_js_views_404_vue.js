@@ -1,4 +1,4 @@
-(self["webpackChunk"] = self["webpackChunk"] || []).push([["resources_js_views_404_vue"],{
+(self["webpackChunkvue_soft_ui_dashboard"] = self["webpackChunkvue_soft_ui_dashboard"] || []).push([["resources_js_views_404_vue"],{
 
 /***/ "./resources/js/views/404.vue":
 /*!************************************!*\

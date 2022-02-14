@@ -1,4 +1,4 @@
-(self["webpackChunk"] = self["webpackChunk"] || []).push([["dashboard"],{
+(self["webpackChunkvue_soft_ui_dashboard"] = self["webpackChunkvue_soft_ui_dashboard"] || []).push([["dashboard"],{
 
 /***/ "./resources/js/views/Dashboard.vue":
 /*!******************************************!*\
