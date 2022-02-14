@@ -23,3 +23,18 @@ View [example pages here](https://demos.creative-tim.com/vue-soft-ui-dashboard/)
 
 * Electron
 * <a href="https://blog.logrocket.com/building-app-electron-vue/">Electron</a>
+
+
+## DEPLOYING TO HEROKU
+All that’s required to do is to add one file to our project and one buildpack to Heroku. Create a file called static.json in the root of your project repo. Add this content to it (official source):
+{
+"root": "dist",
+"clean_urls": true,
+"routes": {
+"/**": "index.html"
+}
+}
+
+
+heroku buildpacks:add heroku/nodejs
+heroku buildpacks:add https://github.com/heroku/heroku-buildpack-static
