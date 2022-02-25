@@ -9,3 +9,6 @@
 * https://makitweb.com/datatables-ajax-pagination-with-search-and-sort-laravel/
 
 # Deeds
+
+#Argon docs
+* https://www.creative-tim.com/learning-lab/bootstrap/overview/argon-dashboard
