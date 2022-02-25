@@ -65,29 +65,11 @@
         <nav id="navbar" class="navbar">
             <ul>
                 <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                <li><a class="nav-link scrollto" href="#about">About</a></li>
+                <li><a class="nav-link scrollto" href="#about">About Us</a></li>
                 <li><a class="nav-link scrollto" href="#features">Features</a></li>
-                <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
-                <li><a class="nav-link scrollto" href="#team">Team</a></li>
-                <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
-                <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                    <ul>
-                        <li><a href="#">Drop Down 1</a></li>
-                        <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                            <ul>
-                                <li><a href="#">Deep Drop Down 1</a></li>
-                                <li><a href="#">Deep Drop Down 2</a></li>
-                                <li><a href="#">Deep Drop Down 3</a></li>
-                                <li><a href="#">Deep Drop Down 4</a></li>
-                                <li><a href="#">Deep Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Drop Down 2</a></li>
-                        <li><a href="#">Drop Down 3</a></li>
-                        <li><a href="#">Drop Down 4</a></li>
-                    </ul>
-                </li>
-                <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                <li><a class="nav-link scrollto" href="#team">Our Team</a></li>
+                <li><a class="nav-link scrollto" href="#contact">Contact Us</a></li>
+                <li><a class="action-btn shadow-sm p-2 btn btn-rounded btn-outline-warning btn-sm" style="border-radius: 10px; font-weight: bold" href="#contact">Get Started</a></li>
             </ul>
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav><!-- .navbar -->
@@ -660,12 +642,12 @@
 
                         <div>
                             <i class="bi bi-envelope"></i>
-                            <p>info@example.com</p>
+                            <p>info@deedscan.tech</p>
                         </div>
 
                         <div>
                             <i class="bi bi-phone"></i>
-                            <p>+1 5589 55488 55s</p>
+                            <p>+263 784 310 119</p>
                         </div>
 
                     </div>
